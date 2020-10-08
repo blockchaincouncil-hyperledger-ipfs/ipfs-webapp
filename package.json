@@ -1,0 +1,19 @@
+{
+  "name": "ipfs-webapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "react": "~16.6.3",
+    "react-dom": "~16.6.3",
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist": [
+    "last 2 versions and not dead and > 2%"
+  ]
+}
